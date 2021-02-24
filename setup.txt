@@ -1,0 +1,8 @@
+npm i babel-loader @babel/core @babel/preset-env --save-dev
+npm i eslint-webpack-plugin eslint --save-dev
+npm i webpack webpack-cli webpack-bundle-analyzer webpack-dev-server --save-dev
+npm i html-loader html-webpack-plugin --save-dev
+npm i css-loader mini-css-extract-plugin css-minimizer-webpack-plugin style-loader --save-dev
+npm i clean-webpack-plugin copy-webpack-plugin --save-dev
+npm i sass-loader sass --save-dev
+npm i react react-dom @babel/preset-react --save-dev
